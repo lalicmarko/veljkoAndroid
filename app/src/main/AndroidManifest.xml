@@ -16,5 +16,15 @@
 
         </activity>
         <activity android:name=".Zadatak1Activity"/>
+        <activity android:name=".Zadatak2Activity"/>
+        <activity android:name=".Zadatak3Activity"/>
+        <activity android:name=".Zadatak4Activity"/>
+        <activity android:name=".Zadatak5Activity"/>
+        <activity android:name=".Zadatak6Activity"/>
+        <activity android:name=".Zadatak7Activity"/>
+        <activity android:name=".Zadatak8Activity"/>s
+        <activity android:name=".Zadatak9Activity"/>
+        <activity android:name=".Zadatak10Activity"/>
+
     </application>
 </manifest>
