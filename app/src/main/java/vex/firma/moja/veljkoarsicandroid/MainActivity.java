@@ -55,39 +55,39 @@ public class MainActivity extends AppCompatActivity {
                 break;
             }
             case "Zadatak 2" : {
-                Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Zadatak2Activity.class));
                 break;
             }
             case "Zadatak 3" : {
-                Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Zadatak3Activity.class));
                 break;
             }
             case "Zadatak 4" : {
-                Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Zadatak4Activity.class));
                 break;
             }
             case "Zadatak 5" : {
-                Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Zadatak5Activity.class));
                 break;
             }
             case "Zadatak 6" : {
-                Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Zadatak6Activity.class));
                 break;
             }
             case "Zadatak 7" : {
-                Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Zadatak7Activity.class));
                 break;
             }
             case "Zadatak 8" : {
-                Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Zadatak8Activity.class));
                 break;
             }
             case "Zadatak 9" : {
-                Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Zadatak9Activity.class));
                 break;
             }
             case "Zadatak 10" : {
-                Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Zadatak10Activity.class));
                 break;
             }
             default: {
